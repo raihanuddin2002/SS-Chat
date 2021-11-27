@@ -21,7 +21,7 @@
 		background: black !important;
 	}
  </style>
-<br><div class="empty alert-danger"></div>
+<br><div class="empty alert-danger mt-5 text-center"></div>
 		<br><br><br>
 
 		<div class="container">
